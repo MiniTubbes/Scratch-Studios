@@ -1,7 +1,7 @@
 ---
 name: "[Nyan Cat] Bug report"
 about: Create a report to help us improve Nyan Cat
-title: "[Nyan Cat]"
+title: ''
 labels: bug
 assignees: ''
 
